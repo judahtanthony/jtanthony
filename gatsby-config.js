@@ -1,4 +1,4 @@
-'use strict'
+
 
 module.exports = {
   siteMetadata: {
@@ -47,7 +47,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://jtanthony.netlify.com',
+        siteUrl: 'https://gatsby-starter-typescript-plus.netlify.com'
       }
     },
     'gatsby-plugin-emotion',
